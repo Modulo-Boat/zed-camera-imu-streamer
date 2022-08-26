@@ -1,0 +1,3 @@
+Flask==2.0.3
+opencv-python==4.5.5.62
+prometheus-client==0.14.1
